@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS171 Visualization - Fall 2023
+title: CS171 Visualization - Fall 2024
 menu: Home
 order: 1
 ---
@@ -25,8 +25,8 @@ This website is for both the Harvard college CS 1710 course and the Harvard Exte
 [//]: # (*DCE students:* Course enrollment is on a first-come, first-serve basis.)
 
 ### Instructor and TFs
-[Hanspeter Pfister](http://vcg.seas.harvard.edu/people/hanspeter-pfister) (Instructor)  
-[Johanna Beyer](https://johanna-b.github.io/) (Instructor)
+Johannes Knittel (Instructor)  
+Robert Roessler (Head TF)
 
 
 ### Course Sessions
@@ -40,8 +40,8 @@ This website is for both the Harvard college CS 1710 course and the Harvard Exte
 Office hours are posted [here]({{ site.baseurl }}/schedule/#lab_oh_schedule).
 
 **Lecture Resources:**  
-Discussion forum (access via [Canvas](https://canvas.harvard.edu/courses/123364))
-Materials and grades on [Canvas](https://canvas.harvard.edu/courses/123364)
+Discussion forum (access via [Canvas](https://canvas.harvard.edu/courses/137203))
+Materials and grades on [Canvas](https://canvas.harvard.edu/courses/137203)
 
 ### Teaching Fellows
 * Alexander Bell
