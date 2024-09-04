@@ -48,7 +48,6 @@ Materials and grades on [Canvas](https://canvas.harvard.edu/courses/137203)
 * Carly Chen 
 * Diana Feng 
 * Ethan McFarlin 
-* Jack Tian 
 * Jakob Troidl
 
 ### Previous Years
