@@ -37,7 +37,7 @@ Robert Roessler (Head TF)
 [//]: # (*DCE students:* Monday &#40;7:00-8:30pm&#41; and Thursday &#40;7:00-7:45pm&#41;, online video conference.)
 
 **Office Hours:**  
-Office hours are posted [here]({{ site.baseurl }}/schedule/#lab_oh_schedule).
+Office hours are posted [here](https://canvas.harvard.edu/courses/137203/pages/office-hours-2024).
 
 **Lecture Resources:**  
 Discussion forum (access via [Canvas](https://canvas.harvard.edu/courses/137203))
